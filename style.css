@@ -37,6 +37,7 @@ table.center {
 	color: white;
 	text-decoration: none;
 }
+/* button */
 
 .text {
 	display: block;
@@ -63,3 +64,31 @@ div.adjustwidth {
 	max-width: 800px;
 	margin: auto;
 }
+
+/* button - pagination */
+.page {
+    background-color: #1e1e1e;
+    border: 2px inset #005825;
+    color: #2e3092;
+    padding: 2px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	border-radius: 5px;
+	-webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.page:link {
+	color: #00adef;
+}
+.page:visited {
+	color: #00adef;
+}
+.page:hover {
+	background-color: black;
+	color: white;
+	text-decoration: none;
+}
+/* button - pagination */

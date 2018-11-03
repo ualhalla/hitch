@@ -3,8 +3,10 @@ function foot() {
 	var footSet = new Array();
 		footSet[1] = "http://name.mobilist.mobi/in/90757";
 		footSet[2] = "http://wapday.topz.mobi/in/90758";
+		footSet[3] = "http://adzwap.topz.mobi/in/90761";
+		footSet[4] = "http://wap.toplistcreator.eu/in.php?nr=14974";
 
-	document.write('<p style='+'"'+'text-align: left; font-family: verdana; font-size: 11px'+'"'+'>Partners: <a href='+'"'+footSet[1]+'"'+'>name mobiList MOBI</a> &nbsp; <a href='+'"'+footSet[2]+'"'+'>wapDAY TopZ MOBI</a></p>');
+	document.write('<p style='+'"'+'text-align: left; font-family: verdana; font-size: 11px'+'"'+'>Partners: <a href='+'"'+footSet[1]+'"'+'>name mobiList MOBI</a> &nbsp; <a href='+'"'+footSet[2]+'"'+'>wapDAY TopZ MOBI</a> &nbsp; <a href='+'"'+footSet[3]+'"'+'>ADZwap TopZ MOBI</a> &nbsp; <a href='+'"'+footSet[4]+'"'+'>WAP TopListCreator EU</a></p>');
 }
 
 // counter

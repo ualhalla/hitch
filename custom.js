@@ -5,8 +5,14 @@ function foot() {
 		footSet[2] = "http://wapday.topz.mobi/in/90758";
 		footSet[3] = "http://adzwap.topz.mobi/in/90761";
 		footSet[4] = "http://wap.toplistcreator.eu/in.php?nr=14974";
+		footSet[5] = "http://onlyhits.mobilist.mobi/in/90766";
+		footSet[6] = "http://wap.topz.mobi/in/90767";
+		footSet[7] = "http://xxx.mobilist.mobi/in/90768";
+		footSet[8] = "http://downloads.mobilist.mobi/in/90769";
+		footSet[9] = "http://charrua.mobilist.mobi/in/90770";
+		footSet[10] = "http://wap2.topz.mobi/in/90771";
 
-	document.write('<p style='+'"'+'text-align: left; font-family: verdana; font-size: 11px'+'"'+'>Partners: <a href='+'"'+footSet[1]+'"'+'>name mobiList MOBI</a> &nbsp; <a href='+'"'+footSet[2]+'"'+'>wapDAY TopZ MOBI</a> &nbsp; <a href='+'"'+footSet[3]+'"'+'>ADZwap TopZ MOBI</a> &nbsp; <a href='+'"'+footSet[4]+'"'+'>WAP TopListCreator EU</a></p>');
+	document.write('<p style='+'"'+'text-align: left; font-family: verdana; font-size: 11px'+'"'+'>Partners: <a href='+'"'+footSet[1]+'"'+'>name mobiList MOBI</a> &nbsp; <a href='+'"'+footSet[2]+'"'+'>wapDAY TopZ MOBI</a> &nbsp; <a href='+'"'+footSet[3]+'"'+'>ADZwap TopZ MOBI</a> &nbsp; <a href='+'"'+footSet[4]+'"'+'>WAP TopListCreator EU</a> &nbsp; <a href='+'"'+footSet[5]+'"'+'>OnlyHits mobiList MOBI</a> &nbsp; <a href='+'"'+footSet[6]+'"'+'>WAP topZ MOBI</a> &nbsp; <a href='+'"'+footSet[7]+'"'+'>XXX mobiList MOBI</a> &nbsp; <a href='+'"'+footSet[8]+'"'+'>DOWNLOADS mobiList MOBI</a> &nbsp; <a href='+'"'+footSet[9]+'"'+'>Charrua mobiList MOBI</a> &nbsp; <a href='+'"'+footSet[10]+'"'+'>WAP2 topZ MOBI</a></p>');
 }
 
 // counter

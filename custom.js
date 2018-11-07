@@ -38,8 +38,13 @@ function foot() {
 		footSet[35] = "http://livesex.topz.mobi/in/90788";
 		footSet[36] = "http://adzmobi.topz.mobi/in/90782";
 		footSet[37] = "http://papa.topz.mobi/in/90789";
+		footSet[38] = "http://topka.topz.mobi/in/90808";
+		footSet[39] = "http://adstext.topz.mobi/in/90809";
+		footSet[40] = "http://sexart.toplistcreator.eu/in.php?nr=14995";
+		footSet[41] = "http://next.topz.mobi/in/90810";
+		footSet[42] = "http://pornxx.topz.mobi/in/90811";
 
-	document.write('<p style='+'"'+'text-align: left; font-family: verdana; font-size: 11px'+'"'+'>Partners: <a href='+'"'+footSet[1]+'"'+'>name mobiList MOBI</a> &nbsp; <a href='+'"'+footSet[2]+'"'+'>wapDAY TopZ MOBI</a> &nbsp; <a href='+'"'+footSet[3]+'"'+'>ADZwap TopZ MOBI</a> &nbsp; <a href='+'"'+footSet[4]+'"'+'>WAP TopListCreator EU</a> &nbsp; <a href='+'"'+footSet[5]+'"'+'>OnlyHits mobiList MOBI</a> &nbsp; <a href='+'"'+footSet[6]+'"'+'>WAP topZ MOBI</a> &nbsp; <a href='+'"'+footSet[7]+'"'+'>XXX mobiList MOBI</a> &nbsp; <a href='+'"'+footSet[8]+'"'+'>DOWNLOADS mobiList MOBI</a> &nbsp; <a href='+'"'+footSet[9]+'"'+'>Charrua mobiList MOBI</a> &nbsp; <a href='+'"'+footSet[10]+'"'+'>WAP2 topZ MOBI</a> &nbsp; <a href='+'"'+footSet[11]+'"'+'>AdzLine topZ MOBI</a> &nbsp; <a href='+'"'+footSet[12]+'"'+'>Porn ToplistCreator EU</a> &nbsp; <a href='+'"'+footSet[13]+'"'+'>9ADS topZ MOBI</a> &nbsp; <a href='+'"'+footSet[14]+'"'+'>HOTgirls mobiList MOBI</a> &nbsp; <a href='+'"'+footSet[15]+'"'+'>XNXX ToplistCreator EU</a> &nbsp; <a href='+'"'+footSet[16]+'"'+'>MostList topHits MOBI</a> &nbsp; <a href='+'"'+footSet[17]+'"'+'>iTech topZ MOBI</a> &nbsp; <a href='+'"'+footSet[18]+'"'+'>MP4x mobiList MOBI</a> &nbsp; <a href='+'"'+footSet[19]+'"'+'>adZlist topZ MOBI</a> &nbsp; <a href='+'"'+footSet[20]+'"'+'>iTech topZone MOBI</a> &nbsp; <a href='+'"'+footSet[21]+'"'+'>xtList</a> &nbsp; <a href='+'"'+footSet[22]+'"'+'>sexList MOBI</a> &nbsp; <a href='+'"'+footSet[23]+'"'+'>MobPath</a> &nbsp; <a href='+'"'+footSet[24]+'"'+'>sexTop XXX</a> &nbsp; <a href='+'"'+footSet[25]+'"'+'>WAPfun EU</a> &nbsp; <a href='+'"'+footSet[26]+'"'+'>sexTop CO</a> &nbsp; <a href='+'"'+footSet[27]+'"'+'>x2List</a> &nbsp; <a href='+'"'+footSet[28]+'"'+'>KickMe MOBI</a> &nbsp; <a href='+'"'+footSet[29]+'"'+'>WAPtop EU</a> &nbsp; <a href='+'"'+footSet[30]+'"'+'>mTop MOBI</a> &nbsp; <a href='+'"'+footSet[31]+'"'+'>EroList</a> &nbsp; <a href='+'"'+footSet[32]+'"'+'>topListX</a> &nbsp; <a href='+'"'+footSet[33]+'"'+'>Top mobiList MOBI</a> &nbsp; <a href='+'"'+footSet[34]+'"'+'>Loland topZ MOBI</a> &nbsp; <a href='+'"'+footSet[35]+'"'+'>LiveSex topZ MOBI</a> &nbsp; <a href='+'"'+footSet[36]+'"'+'>AdzMobi topZ MOBI</a> &nbsp; <a href='+'"'+footSet[37]+'"'+'>PAPA topZ MOBI</a></p>');
+	document.write('<p style='+'"'+'text-align: left; font-family: verdana; font-size: 11px'+'"'+'>Partners: <a href='+'"'+footSet[1]+'"'+'>name mobiList MOBI</a> &nbsp; <a href='+'"'+footSet[2]+'"'+'>wapDAY TopZ MOBI</a> &nbsp; <a href='+'"'+footSet[3]+'"'+'>ADZwap TopZ MOBI</a> &nbsp; <a href='+'"'+footSet[4]+'"'+'>WAP TopListCreator EU</a> &nbsp; <a href='+'"'+footSet[5]+'"'+'>OnlyHits mobiList MOBI</a> &nbsp; <a href='+'"'+footSet[6]+'"'+'>WAP topZ MOBI</a> &nbsp; <a href='+'"'+footSet[7]+'"'+'>XXX mobiList MOBI</a> &nbsp; <a href='+'"'+footSet[8]+'"'+'>DOWNLOADS mobiList MOBI</a> &nbsp; <a href='+'"'+footSet[9]+'"'+'>Charrua mobiList MOBI</a> &nbsp; <a href='+'"'+footSet[10]+'"'+'>WAP2 topZ MOBI</a> &nbsp; <a href='+'"'+footSet[11]+'"'+'>AdzLine topZ MOBI</a> &nbsp; <a href='+'"'+footSet[12]+'"'+'>Porn ToplistCreator EU</a> &nbsp; <a href='+'"'+footSet[13]+'"'+'>9ADS topZ MOBI</a> &nbsp; <a href='+'"'+footSet[14]+'"'+'>HOTgirls mobiList MOBI</a> &nbsp; <a href='+'"'+footSet[15]+'"'+'>XNXX ToplistCreator EU</a> &nbsp; <a href='+'"'+footSet[16]+'"'+'>MostList topHits MOBI</a> &nbsp; <a href='+'"'+footSet[17]+'"'+'>iTech topZ MOBI</a> &nbsp; <a href='+'"'+footSet[18]+'"'+'>MP4x mobiList MOBI</a> &nbsp; <a href='+'"'+footSet[19]+'"'+'>adZlist topZ MOBI</a> &nbsp; <a href='+'"'+footSet[20]+'"'+'>iTech topZone MOBI</a> &nbsp; <a href='+'"'+footSet[21]+'"'+'>xtList</a> &nbsp; <a href='+'"'+footSet[22]+'"'+'>sexList MOBI</a> &nbsp; <a href='+'"'+footSet[23]+'"'+'>MobPath</a> &nbsp; <a href='+'"'+footSet[24]+'"'+'>sexTop XXX</a> &nbsp; <a href='+'"'+footSet[25]+'"'+'>WAPfun EU</a> &nbsp; <a href='+'"'+footSet[26]+'"'+'>sexTop CO</a> &nbsp; <a href='+'"'+footSet[27]+'"'+'>x2List</a> &nbsp; <a href='+'"'+footSet[28]+'"'+'>KickMe MOBI</a> &nbsp; <a href='+'"'+footSet[29]+'"'+'>WAPtop EU</a> &nbsp; <a href='+'"'+footSet[30]+'"'+'>mTop MOBI</a> &nbsp; <a href='+'"'+footSet[31]+'"'+'>EroList</a> &nbsp; <a href='+'"'+footSet[32]+'"'+'>topListX</a> &nbsp; <a href='+'"'+footSet[33]+'"'+'>Top mobiList MOBI</a> &nbsp; <a href='+'"'+footSet[34]+'"'+'>Loland topZ MOBI</a> &nbsp; <a href='+'"'+footSet[35]+'"'+'>LiveSex topZ MOBI</a> &nbsp; <a href='+'"'+footSet[36]+'"'+'>AdzMobi topZ MOBI</a> &nbsp; <a href='+'"'+footSet[37]+'"'+'>PAPA topZ MOBI</a> &nbsp; <a href='+'"'+footSet[38]+'"'+'>topKA topZ MOBI</a> &nbsp; <a href='+'"'+footSet[39]+'"'+'>AdsText topZ MOBI</a> &nbsp; <a href='+'"'+footSet[40]+'"'+'>SexArt ToplistCreator EU</a> &nbsp; <a href='+'"'+footSet[41]+'"'+'>Next topZ MOBI</a> &nbsp; <a href='+'"'+footSet[42]+'"'+'>PornXX topZ MOBI</a></p>');
 }
 
 // counter
@@ -55,7 +60,7 @@ function members(){
 // ad top
 function adtop() {
 	var min = 1;
-	var max = 2;
+	var max = 3;
 	var get_seed = Math.floor(Math.random() * (max - min + 1)) + min;
 
 	if (get_seed == 1)
@@ -65,6 +70,10 @@ function adtop() {
 	if (get_seed == 2)
 		{
 			document.write('<p align='+'"'+'center'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<a href='+'"'+'https://affili.st/322366'+'"'+' class='+'"'+'btn btn-danger'+'"'+'><img  src='+'"'+'https://aff-aff.advertica-cdn.com/728/90/130.gif'+'"'+'/></a></p>');
+		}
+	if (get_seed == 3)
+		{
+			document.write('<p align='+'"'+'center'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<script type='+'"'+'text/javascript'+'"'+' src='+'"'+'//adwb.net/6735e931f6/5766e48282/?placementName=default&width=728&height=90'+'"'+'></script></p>');
 		}
 }
 

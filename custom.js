@@ -93,15 +93,15 @@ function adleft() {
 		}
 	if (get_seed == 2)
 		{
-			document.write('<p align='+'"'+'center'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<a href='+'"'+'https://affili.st/322366'+'"'+' class='+'"'+'btn btn-danger'+'"'+'><img  src='+'"'+'https://aff-aff.advertica-cdn.com/468/60/49.jpg'+'"'+'/></a></p>');
+			document.write('<p align='+'"'+'left'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<a href='+'"'+'https://affili.st/322366'+'"'+' class='+'"'+'btn btn-danger'+'"'+'><img  src='+'"'+'https://aff-aff.advertica-cdn.com/468/60/49.jpg'+'"'+'/></a></p>');
 		}
 	if (get_seed == 3)
 		{
-			document.write('<p align='+'"'+'center'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<script type='+'"'+'text/javascript'+'"'+' src='+'"'+'//adwb.net/2b2614e689/21b429a008/?placementName=default&width=468&height=60'+'"'+'></script></p>');
+			document.write('<p align='+'"'+'left'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<script type='+'"'+'text/javascript'+'"'+' src='+'"'+'//adwb.net/2b2614e689/21b429a008/?placementName=default&width=468&height=60'+'"'+'></script></p>');
 		}
 	if (get_seed == 4)
 		{
-			document.write('<p align='+'"'+'center'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<script type='+'"'+'text/javascript'+'"'+' src='+'"'+'//adwb.net/2b2614e689/21b429a008/?placementName=default&width=468&height=60'+'"'+'></script></p>');
+			document.write('<p align='+'"'+'left'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<script type='+'"'+'text/javascript'+'"'+' src='+'"'+'//adwb.net/2b2614e689/21b429a008/?placementName=default&width=468&height=60'+'"'+'></script></p>');
 		}
 }
 

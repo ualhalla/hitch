@@ -60,7 +60,7 @@ function members(){
 // ad top
 function adtop() {
 	var min = 1;
-	var max = 3;
+	var max = 4;
 	var get_seed = Math.floor(Math.random() * (max - min + 1)) + min;
 
 	if (get_seed == 1)
@@ -75,12 +75,16 @@ function adtop() {
 		{
 			document.write('<p align='+'"'+'center'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<script type='+'"'+'text/javascript'+'"'+' src='+'"'+'//adwb.net/6735e931f6/5766e48282/?placementName=default&width=728&height=90'+'"'+'></script></p>');
 		}
+	if (get_seed == 4)
+		{
+			document.write('<p align='+'"'+'center'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<script type='+'"'+'text/javascript'+'"'+' src='+'"'+'//adwb.net/6735e931f6/5766e48282/?placementName=default&width=728&height=90'+'"'+'></script></p>');
+		}
 }
 
 // ad left
 function adleft() {
 	var min = 1;
-	var max = 2;
+	var max = 4;
 	var get_seed = Math.floor(Math.random() * (max - min + 1)) + min;
 
 	if (get_seed == 1)
@@ -91,12 +95,20 @@ function adleft() {
 		{
 			document.write('<p align='+'"'+'center'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<a href='+'"'+'https://affili.st/322366'+'"'+' class='+'"'+'btn btn-danger'+'"'+'><img  src='+'"'+'https://aff-aff.advertica-cdn.com/468/60/49.jpg'+'"'+'/></a></p>');
 		}
+	if (get_seed == 3)
+		{
+			document.write('<p align='+'"'+'center'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<script type='+'"'+'text/javascript'+'"'+' src='+'"'+'//adwb.net/2b2614e689/21b429a008/?placementName=default&width=468&height=60'+'"'+'></script></p>');
+		}
+	if (get_seed == 4)
+		{
+			document.write('<p align='+'"'+'center'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<script type='+'"'+'text/javascript'+'"'+' src='+'"'+'//adwb.net/2b2614e689/21b429a008/?placementName=default&width=468&height=60'+'"'+'></script></p>');
+		}
 }
 
 // ad bottom
 function adbottom() {
 	var min = 1;
-	var max = 2;
+	var max = 4;
 	var get_seed = Math.floor(Math.random() * (max - min + 1)) + min;
 	
 
@@ -107,5 +119,13 @@ function adbottom() {
 	if (get_seed == 2)
 		{
 			document.write('<p align='+'"'+'center'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<a href='+'"'+'https://affili.st/322366'+'"'+' class='+'"'+'btn btn-danger'+'"'+'><img  src='+'"'+'https://aff-aff.advertica-cdn.com/300/250/145.gif'+'"'+'/></a></p>');
+		}
+	if (get_seed == 3)
+		{
+			document.write('<p align='+'"'+'center'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<script type='+'"'+'text/javascript'+'"'+' src='+'"'+'//adwb.net/d9f5ac4fa9/9e158a8b54/?placementName=default&width=300&height=250'+'"'+'></script></p>');
+		}
+	if (get_seed == 4)
+		{
+			document.write('<p align='+'"'+'center'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<script type='+'"'+'text/javascript'+'"'+' src='+'"'+'//adwb.net/d9f5ac4fa9/9e158a8b54/?placementName=default&width=300&height=250'+'"'+'></script></p>');
 		}
 }

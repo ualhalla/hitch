@@ -66,12 +66,16 @@ function members(){
 // ad top
 function adtop() {
 	var min = 1;
-	var max = 1;
+	var max = 2;
 	var get_seed = Math.floor(Math.random() * (max - min + 1)) + min;
 
 	if (get_seed == 1)
 		{
 			document.write('<p align='+'"'+'center'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<a href='+'"'+'https://adult.xyz/?id=17792889'+'"'+'><img border='+'"'+'0'+'"'+' src='+'"'+'https://cdn.adult.xyz/images/banners/adult.728x90.2.gif'+'"'+' width='+'"'+'728'+'"'+' height='+'"'+'90'+'"'+' title='+'"'+'Adult.xyz - shorten links and earn money!'+'"'+' /></a><br /><a href='+'"'+'https://adult.xyz/?id=17792889'+'"'+'>Get paid to share your links!</a></p>');
+		}
+	if (get_seed == 2)
+		{
+			document.write('<p align='+'"'+'center'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<script type='+'"'+'text/javascript'+'"'+' src='+'"'+'http://show.adstoob.us/banner.php?uid=6121&sid=6082'+'"'+'></script></p>');
 		}
 }
 

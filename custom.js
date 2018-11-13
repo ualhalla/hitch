@@ -76,7 +76,7 @@ function adtop() {
 		}
 	if (get_seed == 2)
 		{
-			document.write('<p align='+'"'+'center'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<a href='+'"'+'http://hitch.unaux.com/cc/click.php?id=196'+'"'+'><img src='+'"'+'https://ualhalla.github.io/hitch/banner.jpg'+'"'+' alt='+'"'+'adstoob.us'+'"'+' width='+'"'+'728'+'"'+' height='+'"'+'90'+'"'+'></a></p>');
+			document.write('<p align='+'"'+'center'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<a href='+'"'+'http://hitch.unaux.com/cc/click.php?id=196'+'"'+'><img src='+'"'+'https://ualhalla.github.io/hitch/banner.jpg'+'"'+' alt='+'"'+'adstoob.us'+'"'+' width='+'"'+'728'+'"'+' height='+'"'+'90'+'"'+'></a><img src='+'"'+'http://adstoob.us/adtools/20181029_194413.gif'+'"'+' alt='+'"'+'banner'+'"'+' width='+'"'+'1px'+'"'+' height='+'"'+'1px'+'"'+'></p>');
 		}
 }
 

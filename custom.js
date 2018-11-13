@@ -75,7 +75,7 @@ function adtop() {
 		}
 	if (get_seed == 2)
 		{
-			document.write('<p align='+'"'+'center'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<script type='+'"'+'text/javascript'+'"'+' src='+'"'+'http://show.adstoob.us/banner.php?uid=6121&sid=6082'+'"'+'></script></p>');
+			document.write('<p align='+'"'+'center'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<a href='+'"'+'http://hitch.unaux.com/cc/click.php?id=196'+'"'+'><img src='+'"'+'https://ualhalla.github.io/hitch/banner.jpg'+'"'+' alt='+'"'+'adstoob.us'+'"'+' width='+'"'+'728'+'"'+' height='+'"'+'90'+'"'+'></a></p>');
 		}
 }
 

@@ -98,12 +98,16 @@ function adleft() {
 // ad bottom
 function adbottom() {
 	var min = 1;
-	var max = 1;
+	var max = 2;
 	var get_seed_bottom = Math.floor(Math.random() * (max - min + 1)) + min;
 	
 
 	if (get_seed_bottom == 1)
 		{
 			document.write('<p align='+'"'+'center'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<a href='+'"'+'https://adult.xyz/?id=17792889'+'"'+'><img border='+'"'+'0'+'"'+' src='+'"'+'https://cdn.adult.xyz/images/banners/adult.300x250.1.gif'+'"'+' width='+'"'+'300'+'"'+' height='+'"'+'250'+'"'+' title='+'"'+'Adult.xyz - shorten links and earn money!'+'"'+' /></a></p>');
+		}
+	if (get_seed_bottom == 2)
+		{
+			document.write('<p align='+'"'+'center'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<a href='+'"'+'http://hitch.unaux.com/cc/click.php?id=196'+'"'+'><img src='+'"'+'http://adstoob.us/adtools/20181029_194413.gif'+'"'+' alt='+'"'+'adstoob.us'+'"'+' width='+'"'+'352'+'"'+' height='+'"'+'196'+'"'+'></a></p>');
 		}
 }

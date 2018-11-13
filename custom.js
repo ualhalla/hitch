@@ -91,7 +91,7 @@ function adleft() {
 		}
 	if (get_seed_left == 2)
 		{
-			document.write('<p align='+'"'+'left'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<a href='+'"'+'http://hitch.unaux.com/cc/click.php?id=195'+'"'+'>Free Mobile Downloads</a></p>');
+			document.write('<p align='+'"'+'left'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<span style='+'"'+'padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; border-radius: 6px; background-color: #1e1e1e; font-size: 150%;'+'"'+'><a href='+'"'+'http://hitch.unaux.com/cc/click.php?id=195'+'"'+'>Free Mobile Downloads</a></span></p>');
 		}
 }
 

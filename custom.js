@@ -83,13 +83,13 @@ function adtop() {
 function adleft() {
 	var min = 1;
 	var max = 2;
-	var get_seed = Math.floor(Math.random() * (max - min + 1)) + min;
+	var get_seed_left = Math.floor(Math.random() * (max - min + 1)) + min;
 
-	if (get_seed == 1)
+	if (get_seed_left == 1)
 		{
 			document.write('<p align='+'"'+'left'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<a href='+'"'+'https://adult.xyz/?id=17792889'+'"'+'><img border='+'"'+'0'+'"'+' src='+'"'+'https://cdn.adult.xyz/images/banners/adult.468x60.5.gif'+'"'+' width='+'"'+'468'+'"'+' height='+'"'+'60'+'"'+' title='+'"'+'Adult.xyz - shorten links and earn money!'+'"'+' /></a><br /><a href='+'"'+'https://adult.xyz/?id=17792889'+'"'+'>Get paid to share your links!</a></p>');
 		}
-	if (get_seed == 2)
+	if (get_seed_left == 2)
 		{
 			document.write('<p align='+'"'+'left'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<a href='+'"'+'http://hitch.unaux.com/cc/click.php?id=195'+'"'+'>Free Mobile Downloads</a></p>');
 		}
@@ -99,10 +99,10 @@ function adleft() {
 function adbottom() {
 	var min = 1;
 	var max = 1;
-	var get_seed = Math.floor(Math.random() * (max - min + 1)) + min;
+	var get_seed_bottom = Math.floor(Math.random() * (max - min + 1)) + min;
 	
 
-	if (get_seed == 1)
+	if (get_seed_bottom == 1)
 		{
 			document.write('<p align='+'"'+'center'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<a href='+'"'+'https://adult.xyz/?id=17792889'+'"'+'><img border='+'"'+'0'+'"'+' src='+'"'+'https://cdn.adult.xyz/images/banners/adult.300x250.1.gif'+'"'+' width='+'"'+'300'+'"'+' height='+'"'+'250'+'"'+' title='+'"'+'Adult.xyz - shorten links and earn money!'+'"'+' /></a></p>');
 		}

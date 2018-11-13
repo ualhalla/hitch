@@ -91,7 +91,7 @@ function adleft() {
 		}
 	if (get_seed == 2)
 		{
-			document.write('<p align='+'"'+'left'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<a href='+'"'+'http://show.adstoob.us/clk.php?uid=6121&sid=6082'+'"'+'>Free Mobile Downloads</a></p>');
+			document.write('<p align='+'"'+'left'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<a href='+'"'+'http://hitch.unaux.com/cc/click.php?id=195'+'"'+'>Free Mobile Downloads</a></p>');
 		}
 }
 

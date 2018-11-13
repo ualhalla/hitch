@@ -82,12 +82,16 @@ function adtop() {
 // ad left
 function adleft() {
 	var min = 1;
-	var max = 1;
+	var max = 2;
 	var get_seed = Math.floor(Math.random() * (max - min + 1)) + min;
 
 	if (get_seed == 1)
 		{
 			document.write('<p align='+'"'+'left'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<a href='+'"'+'https://adult.xyz/?id=17792889'+'"'+'><img border='+'"'+'0'+'"'+' src='+'"'+'https://cdn.adult.xyz/images/banners/adult.468x60.5.gif'+'"'+' width='+'"'+'468'+'"'+' height='+'"'+'60'+'"'+' title='+'"'+'Adult.xyz - shorten links and earn money!'+'"'+' /></a><br /><a href='+'"'+'https://adult.xyz/?id=17792889'+'"'+'>Get paid to share your links!</a></p>');
+		}
+	if (get_seed == 2)
+		{
+			document.write('<p align='+'"'+'left'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<a href='+'"'+'http://show.adstoob.us/clk.php?uid=6121&sid=6082'+'"'+'>Free Mobile Downloads</a></p>');
 		}
 }
 

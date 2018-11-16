@@ -76,11 +76,11 @@ function adtop() {
 		}
 	if (get_seed == 2)
 		{
-			document.write('<p align='+'"'+'center'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<a href='+'"'+'http://hitch.unaux.com/cc/click.php?id=196'+'"'+'><img src='+'"'+'https://ualhalla.github.io/hitch/banner.jpg'+'"'+' alt='+'"'+'adstoob.us'+'"'+' width='+'"'+'728'+'"'+' height='+'"'+'90'+'"'+'></a><a href='+'"'+'http://show.adstoob.us/html.php?uid=6121&sid=6082'+'"'+' style='+'"'+'display: none;'+'"'+'><img src='+'"'+'http://adstoob.us/adtools/20181029_194413.gif'+'"'+' alt='+'"'+'adstoob.us'+'"'+' width='+'"'+'352'+'"'+' height='+'"'+'196'+'"'+'></a></p>');
+			document.write('<p align='+'"'+'center'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<a href='+'"'+'http://hitch.unaux.com/cc/click.php?id=196'+'"'+'><img src='+'"'+'https://ualhalla.github.io/hitch/banner.jpg'+'"'+' alt='+'"'+'adstoob.us'+'"'+' width='+'"'+'728'+'"'+' height='+'"'+'90'+'"'+'></a><a href='+'"'+'http://show.adstoob.us/html.php?uid=6121&sid=6082'+'"'+'><img src='+'"'+'http://adstoob.us/adtools/20181029_194413.gif'+'"'+' alt='+'"'+'adstoob.us'+'"'+' width='+'"'+'352'+'"'+' height='+'"'+'196'+'"'+' style='+'"'+'display: none;'+'"'+'></a></p>');
 		}
 	if (get_seed == 3)
 		{
-			document.write('<p align='+'"'+'center'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<a href='+'"'+'http://hitch.unaux.com/cc/click.php?id=196'+'"'+'><img src='+'"'+'https://ualhalla.github.io/hitch/banner_0.jpg'+'"'+' alt='+'"'+'adstoob.us'+'"'+' width='+'"'+'728'+'"'+' height='+'"'+'90'+'"'+'></a><a href='+'"'+'http://show.adstoob.us/html.php?uid=6121&sid=6082'+'"'+' style='+'"'+'display: none;'+'"'+'><img src='+'"'+'http://adstoob.us/adtools/20181029_194413.gif'+'"'+' alt='+'"'+'adstoob.us'+'"'+' width='+'"'+'352'+'"'+' height='+'"'+'196'+'"'+'></a></p>');
+			document.write('<p align='+'"'+'center'+'"'+' style='+'"'+'font-family: verdana; font-size: 10px;'+'"'+'>Ad&nbsp;<a href='+'"'+'http://hitch.unaux.com/cc/click.php?id=196'+'"'+'><img src='+'"'+'https://ualhalla.github.io/hitch/banner_0.jpg'+'"'+' alt='+'"'+'adstoob.us'+'"'+' width='+'"'+'728'+'"'+' height='+'"'+'90'+'"'+'></a><a href='+'"'+'http://show.adstoob.us/html.php?uid=6121&sid=6082'+'"'+'><img src='+'"'+'http://adstoob.us/adtools/20181029_194413.gif'+'"'+' alt='+'"'+'adstoob.us'+'"'+' width='+'"'+'352'+'"'+' height='+'"'+'196'+'"'+' style='+'"'+'display: none;'+'"'+'></a></p>');
 		}
 }
 

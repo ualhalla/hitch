@@ -60,7 +60,7 @@ function foot() {
 
 // counter
 function disp_count() {
-	document.write('<p><iframe src='+'"'+'http://hitch.unaux.com/count.php'+'"'+' width='+'"'+'99'+'"'+' height='+'"'+'38'+'"'+' style='+'"'+'border: none'+'"'+'></iframe></p>');
+	document.write('<p><iframe src='+'"'+'http://hitch.unaux.com/count.php'+'"'+' width='+'"'+'100'+'"'+' height='+'"'+'39'+'"'+' style='+'"'+'border: none'+'"'+'></iframe></p>');
 }
 
 // footer $1
